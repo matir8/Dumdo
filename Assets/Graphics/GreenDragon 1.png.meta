@@ -1,0 +1,1815 @@
+fileFormatVersion: 2
+guid: da3df8800d1d6e04587f71bce9afa8f6
+timeCreated: 1434809284
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GreenDragon 1_0
+    21300002: GreenDragon 1_1
+    21300004: GreenDragon 1_2
+    21300006: GreenDragon 1_3
+    21300008: GreenDragon 1_4
+    21300010: GreenDragon 1_5
+    21300012: GreenDragon 1_6
+    21300014: GreenDragon 1_7
+    21300016: GreenDragon 1_8
+    21300018: GreenDragon 1_9
+    21300020: GreenDragon 1_10
+    21300022: GreenDragon 1_11
+    21300024: GreenDragon 1_12
+    21300026: GreenDragon 1_13
+    21300028: GreenDragon 1_14
+    21300030: GreenDragon 1_15
+    21300032: GreenDragon 1_16
+    21300034: GreenDragon 1_17
+    21300036: GreenDragon 1_18
+    21300038: GreenDragon 1_19
+    21300040: GreenDragon 1_20
+    21300042: GreenDragon 1_21
+    21300044: GreenDragon 1_22
+    21300046: GreenDragon 1_23
+    21300048: GreenDragon 1_24
+    21300050: GreenDragon 1_25
+    21300052: GreenDragon 1_26
+    21300054: GreenDragon 1_27
+    21300056: GreenDragon 1_28
+    21300058: GreenDragon 1_29
+    21300060: GreenDragon 1_30
+    21300062: GreenDragon 1_31
+    21300064: GreenDragon 1_32
+    21300066: GreenDragon 1_33
+    21300068: GreenDragon 1_34
+    21300070: GreenDragon 1_35
+    21300072: GreenDragon 1_36
+    21300074: GreenDragon 1_37
+    21300076: GreenDragon 1_38
+    21300078: GreenDragon 1_39
+    21300080: GreenDragon 1_40
+    21300082: GreenDragon 1_41
+    21300084: GreenDragon 1_42
+    21300086: GreenDragon 1_43
+    21300088: GreenDragon 1_44
+    21300090: GreenDragon 1_45
+    21300092: GreenDragon 1_46
+    21300094: GreenDragon 1_47
+    21300096: GreenDragon 1_48
+    21300098: GreenDragon 1_49
+    21300100: GreenDragon 1_50
+    21300102: GreenDragon 1_51
+    21300104: GreenDragon 1_52
+    21300106: GreenDragon 1_53
+    21300108: GreenDragon 1_54
+    21300110: GreenDragon 1_55
+    21300112: GreenDragon 1_56
+    21300114: GreenDragon 1_57
+    21300116: GreenDragon 1_58
+    21300118: GreenDragon 1_59
+    21300120: GreenDragon 1_60
+    21300122: GreenDragon 1_61
+    21300124: GreenDragon 1_62
+    21300126: GreenDragon 1_63
+    21300128: GreenDragon 1_64
+    21300130: GreenDragon 1_65
+    21300132: GreenDragon 1_66
+    21300134: GreenDragon 1_67
+    21300136: GreenDragon 1_68
+    21300138: GreenDragon 1_69
+    21300140: GreenDragon 1_70
+    21300142: GreenDragon 1_71
+    21300144: GreenDragon 1_72
+    21300146: GreenDragon 1_73
+    21300148: GreenDragon 1_74
+    21300150: GreenDragon 1_75
+    21300152: GreenDragon 1_76
+    21300154: GreenDragon 1_77
+    21300156: GreenDragon 1_78
+    21300158: GreenDragon 1_79
+    21300160: GreenDragon 1_80
+    21300162: GreenDragon 1_81
+    21300164: GreenDragon 1_82
+    21300166: GreenDragon 1_83
+    21300168: GreenDragon 1_84
+    21300170: GreenDragon 1_85
+    21300172: GreenDragon 1_86
+    21300174: GreenDragon 1_87
+    21300176: GreenDragon 1_88
+    21300178: GreenDragon 1_89
+    21300180: GreenDragon 1_90
+    21300182: GreenDragon 1_91
+    21300184: GreenDragon 1_92
+    21300186: GreenDragon 1_93
+    21300188: GreenDragon 1_94
+    21300190: GreenDragon 1_95
+    21300192: GreenDragon 1_96
+    21300194: GreenDragon 1_97
+    21300196: GreenDragon 1_98
+    21300198: GreenDragon 1_99
+    21300200: GreenDragon 1_100
+    21300202: GreenDragon 1_101
+    21300204: GreenDragon 1_102
+    21300206: GreenDragon 1_103
+    21300208: GreenDragon 1_104
+    21300210: GreenDragon 1_105
+    21300212: GreenDragon 1_106
+    21300214: GreenDragon 1_107
+    21300216: GreenDragon 1_108
+    21300218: GreenDragon 1_109
+    21300220: GreenDragon 1_110
+    21300222: GreenDragon 1_111
+    21300224: GreenDragon 1_112
+    21300226: GreenDragon 1_113
+    21300228: GreenDragon 1_114
+    21300230: GreenDragon 1_115
+    21300232: GreenDragon 1_116
+    21300234: GreenDragon 1_117
+    21300236: GreenDragon 1_118
+    21300238: GreenDragon 1_119
+    21300240: GreenDragon 1_120
+    21300242: GreenDragon 1_121
+    21300244: GreenDragon 1_122
+    21300246: GreenDragon 1_123
+    21300248: GreenDragon 1_124
+    21300250: GreenDragon 1_125
+    21300252: GreenDragon 1_126
+    21300254: GreenDragon 1_127
+    21300256: GreenDragon 1_128
+    21300258: GreenDragon 1_129
+    21300260: GreenDragon 1_130
+    21300262: GreenDragon 1_131
+    21300264: GreenDragon 1_132
+    21300266: GreenDragon 1_133
+    21300268: GreenDragon 1_134
+    21300270: GreenDragon 1_135
+    21300272: GreenDragon 1_136
+    21300274: GreenDragon 1_137
+    21300276: GreenDragon 1_138
+    21300278: GreenDragon 1_139
+    21300280: GreenDragon 1_140
+    21300282: GreenDragon 1_141
+    21300284: GreenDragon 1_142
+    21300286: GreenDragon 1_143
+    21300288: GreenDragon 1_144
+    21300290: GreenDragon 1_145
+    21300292: GreenDragon 1_146
+    21300294: GreenDragon 1_147
+    21300296: GreenDragon 1_148
+    21300298: GreenDragon 1_149
+    21300300: GreenDragon 1_150
+    21300302: GreenDragon 1_151
+    21300304: GreenDragon 1_152
+    21300306: GreenDragon 1_153
+    21300308: GreenDragon 1_154
+    21300310: GreenDragon 1_155
+    21300312: GreenDragon 1_156
+    21300314: GreenDragon 1_157
+    21300316: GreenDragon 1_158
+    21300318: GreenDragon 1_159
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GreenDragon 1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 943
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 943
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 943
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 943
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 943
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_5
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 943
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 943
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 943
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_8
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 943
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_9
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1017
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_10
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1017
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 943
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_12
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1021
+        width: 5
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_13
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 943
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_14
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1030
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_15
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 943
+        width: 75
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_16
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 943
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 787
+        width: 140
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 786
+        width: 169
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 786
+        width: 194
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_21
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 864
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_22
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 786
+        width: 216
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_23
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 867
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 646
+        width: 169
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 646
+        width: 197
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 646
+        width: 192
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_27
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 706
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_28
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 646
+        width: 182
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_29
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 644
+        width: 242
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_30
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 646
+        width: 161
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_31
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 646
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 478
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 443
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 444
+        width: 138
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 450
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_36
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 387
+        width: 169
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_37
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 467
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_38
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 467
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_39
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 467
+        width: 171
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_40
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 418
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_41
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 418
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_42
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_43
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_44
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_45
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 418
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_46
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 418
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_47
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_48
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 415
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_49
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_50
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_51
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 396
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_52
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_53
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 396
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_54
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_55
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_56
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 396
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_57
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_58
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 396
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_59
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 396
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_60
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 393
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_61
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 396
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_62
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 396
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_63
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_64
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_65
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 396
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_66
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 396
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_67
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_68
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 393
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_69
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 396
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_70
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 247
+        width: 174
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_71
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 380
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_72
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 380
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_73
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 378
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_74
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 380
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_75
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 380
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_76
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 380
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_77
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 377
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_78
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 380
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_79
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 380
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_80
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 380
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_81
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 380
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_82
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 380
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_83
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 380
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_84
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 380
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_85
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 380
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 232
+        width: 181
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_87
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 247
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_88
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 247
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_89
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 246
+        width: 127
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_90
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 245
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_91
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 246
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_92
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 245
+        width: 130
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_93
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 262
+        width: 181
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_94
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 207
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_95
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 204
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_96
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 204
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_97
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_98
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 207
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_99
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 207
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_100
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 204
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_101
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 124
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_102
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 89
+        width: 121
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_103
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 166
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_104
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 189
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_105
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 189
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_106
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 189
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_107
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 189
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_108
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 189
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_109
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 189
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_110
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 189
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_111
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 189
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_112
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 189
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_113
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 189
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_114
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 189
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_115
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 189
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_116
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 91
+        width: 140
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 89
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_118
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 89
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_119
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 157
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_120
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 172
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_121
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 83
+        width: 187
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_122
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_123
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_124
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 173
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_125
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_126
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 170
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_127
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 173
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_128
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_129
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_130
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_131
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 170
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_132
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 173
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_133
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 173
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_134
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 173
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_135
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_136
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 173
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_137
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 154
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_138
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_139
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_140
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 157
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_141
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_142
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 154
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_143
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_144
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_145
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_146
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 157
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_147
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_148
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 157
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_149
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 157
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_150
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 85
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_151
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 90
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_152
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_153
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_154
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_155
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_156
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 12
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_157
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 12
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_158
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 12
+        width: 106
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenDragon 1_159
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 12
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

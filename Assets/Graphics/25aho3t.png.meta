@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 5cb426e4736a0604692eb2aaadb20902
+timeCreated: 1434836183
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 25aho3t_0
+    21300002: 25aho3t_1
+    21300004: 25aho3t_2
+    21300006: 25aho3t_3
+    21300008: 25aho3t_4
+    21300010: 25aho3t_5
+    21300012: 25aho3t_8
+    21300014: 25aho3t_9
+    21300016: 25aho3t_10
+    21300018: 25aho3t_11
+    21300020: 25aho3t_12
+    21300022: 25aho3t_13
+    21300024: 25aho3t_16
+    21300026: 25aho3t_17
+    21300028: 25aho3t_18
+    21300030: 25aho3t_19
+    21300032: 25aho3t_20
+    21300034: 25aho3t_21
+    21300036: 25aho3t_22
+    21300038: 25aho3t_23
+    21300040: 25aho3t_24
+    21300042: 25aho3t_25
+    21300044: 25aho3t_26
+    21300046: 25aho3t_27
+    21300048: 25aho3t_28
+    21300050: 25aho3t_29
+    21300052: 25aho3t_30
+    21300054: 25aho3t_32
+    21300056: 25aho3t_33
+    21300058: 25aho3t_34
+    21300060: 25aho3t_35
+    21300062: 25aho3t_36
+    21300064: 25aho3t_37
+    21300066: 25aho3t_38
+    21300068: 25aho3t_39
+    21300070: 25aho3t_40
+    21300072: 25aho3t_41
+    21300074: 25aho3t_42
+    21300076: 25aho3t_43
+    21300078: 25aho3t_44
+    21300080: 25aho3t_45
+    21300082: 25aho3t_46
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 25aho3t_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 348
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 348
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 348
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 277
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 279
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 210
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 210
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 210
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 68
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_38
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 70
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_39
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 25aho3t_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

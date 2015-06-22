@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: a07e7aa252ec18b4eb4321dc58cfd5d7
+timeCreated: 1434401184
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Attack 143x247_0
+    21300002: Attack 143x247_1
+    21300004: Attack 143x247_2
+    21300006: Attack 143x247_3
+    21300008: Attack 143x247_4
+    21300010: Attack 143x247_5
+    21300012: Attack 143x247_6
+    21300014: Attack 143x247_7
+    21300016: Attack 143x247_8
+    21300018: Attack 143x247_9
+    21300020: Attack 143x247_10
+    21300022: Attack 143x247_11
+    21300024: Attack 143x247_12
+    21300026: Attack 143x247_13
+    21300028: Attack 143x247_14
+    21300030: Attack 143x247_15
+    21300032: Attack 143x247_16
+    21300034: Attack 143x247_17
+    21300036: Attack 143x247_18
+    21300038: Attack 143x247_19
+    21300040: Attack 143x247_20
+    21300042: Attack 143x247_21
+    21300044: Attack 143x247_22
+    21300046: Attack 143x247_23
+    21300048: Attack 143x247_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Attack 143x247_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1487
+        width: 126
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1487
+        width: 138
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1490
+        width: 126
+        height: 223
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1492
+        width: 104
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1245
+        width: 123
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1247
+        width: 116
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1243
+        width: 112
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1247
+        width: 117
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1000
+        width: 117
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1000
+        width: 128
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1000
+        width: 121
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1000
+        width: 119
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 750
+        width: 126
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 750
+        width: 124
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 750
+        width: 121
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 746
+        width: 112
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 139
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 496
+        width: 119
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 503
+        width: 122
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 498
+        width: 111
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 253
+        width: 121
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 246
+        width: 121
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 251
+        width: 111
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 253
+        width: 109
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 143x247_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 117
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
